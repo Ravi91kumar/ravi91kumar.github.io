@@ -57,6 +57,7 @@ body {
 #themeToggle {
   padding: 3px 6px;
   font-size: 11px;
+  margin: 5px 5px;
 }
 .project, .blog {
   border:1px solid #ddd;
