@@ -16,19 +16,7 @@ body {
   margin:auto;
   padding:20px;
 }
-.skill { margin:10px 0; }
 
-.bar {
-  background:#ddd;
-  height:8px;
-  border-radius:10px;
-}
-
-.bar div {
-  background:black;
-  height:8px;
-  border-radius:10px;
-}
 .topbar {
   display:flex;
   justify-content:space-between;
@@ -110,4 +98,17 @@ footer {
 @keyframes slideIn {
   from {transform:translateY(20px); opacity:0;}
   to {transform:translateY(0); opacity:1;}
+}
+.skill { margin:10px 0; }
+
+.bar {
+  background:#ddd;
+  height:8px;
+  border-radius:10px;
+}
+
+.bar div {
+  background:black;
+  height:8px;
+  border-radius:10px;
 }
