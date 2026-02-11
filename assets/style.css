@@ -42,7 +42,10 @@ body {
   display:inline-block;
   margin-top:5px;
 }
-
+#themeToggle {
+  padding: 3px 6px;
+  font-size: 11px;
+}
 .project, .blog {
   border:1px solid #ddd;
   padding:10px;
