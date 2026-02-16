@@ -24,7 +24,7 @@ body {
 }
 
 .bar div {
-  background:black;
+  background:red;
   height:8px;
   border-radius:10px;
 }
